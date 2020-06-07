@@ -10,7 +10,7 @@ class Home extends Component {
         </div>
 
         <img src='./images/Doge.jpg' style={{width: 600}} alt='Doge' />
-        <h2> "When things get ruff, we become tough" </h2>
+        <h2> "When things get rough, we become tough" </h2>
 
         <p>
           Hello! I'm a UBC Computer Science student who just finished 3rd year.
