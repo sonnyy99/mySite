@@ -47,7 +47,7 @@ class Projects extends Component {
                   Often times at UBC I would need drinking water but wouldn't know where to get any near me.
                   <br></br>
                   <br></br>
-                  To save time, I made to this project to find the closest water fountain to my current location.
+                  To save time, I made this project to find the closest water fountain to my current location.
                   <br></br>
                   <br></br>
                   I started by representing water fountains and their locations using OOP in Java.
