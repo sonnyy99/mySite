@@ -1,0 +1,9 @@
+div.nameHeader {
+    width: 250px;
+    border: 5px solid black;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: #F0EAD6;
+}
