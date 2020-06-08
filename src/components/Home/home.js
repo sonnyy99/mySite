@@ -9,7 +9,7 @@ class Home extends Component {
           <h1> Sonny Young </h1>
         </div>
 
-        <img src='./images/Doge.jpg' style={{width: 600}} alt='Doge' />
+        <img src={process.env.PUBLIC_URL + "/images/Doge.jpg"} style={{width: 600}} alt='Doge' />
         <h2> "When things get rough, we become tough" </h2>
 
         <p>
@@ -23,11 +23,11 @@ class Home extends Component {
         </p>   
 
         <a href="https://github.com/sonnyy99" target="_blank"> 
-          <img border="0" alt="GitHub" src="./images/GitHubLogo.png" width="50" height="50"/>
+          <img border="0" alt="GitHub" src={process.env.PUBLIC_URL + "/images/GitHubLogo.png"}  width="50" height="50"/>
         </a>
             
         <a href="https://www.linkedin.com/in/sonnyyubc/" target="_blank"> 
-          <img border="0" alt="LinkedIn" src="./images/LinkedInLogo.png" width="50" height="50"/>
+          <img border="0" alt="LinkedIn" src={process.env.PUBLIC_URL + "/images/LinkedInLogo.png"} width="50" height="50"/>
         </a>
 
         <br></br>

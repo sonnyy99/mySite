@@ -8,7 +8,9 @@ class App extends Component {
   render() {
     return (
       <div id = "App">
-        <Sidebar></Sidebar>
+        <div id = "sidebar">
+          <Sidebar></Sidebar>
+        </div>
 
         <div id = "page-wrap">
           <div id = "home">

@@ -23,6 +23,8 @@
     height: 30px;
     left: 36px;
     top: 36px;
+    max-width: 5%;
+    max-height: 5%;
   }
   
   /* Color/shape of burger icon bars */

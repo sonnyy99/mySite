@@ -1,7 +1,12 @@
 html,
 body {
   margin: 0;
+  padding: 0;
   background: #DCDCDC;
+}
+
+div {
+  max-width: 95%;
 }
 
 html {
@@ -10,6 +15,7 @@ html {
 
 img {
     padding: 10px;
+    max-width: 95%;
 }
 
 ul {
@@ -31,4 +37,8 @@ ul {
 
   /* Prevent sidebar from showing a scrollbar on page */
   overflow: auto;
+}
+
+@media screen and (max-width: 768px) {
+#sidebar {display: none;} 
 }

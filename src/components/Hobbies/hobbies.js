@@ -14,7 +14,7 @@ class Hobbies extends Component {
               These days you can usually find me playing Ultimate Frisbee or Basketball.
               <br></br>
               <br></br>
-              <img src='./images/UltiChampions.jpg' style={{width: 600}} alt='Team Photo' />
+              <img src={process.env.PUBLIC_URL + '/images/UltiChampions.jpg'} style={{width: 600}} alt='Team Photo' />
             </div>
 
 
@@ -23,7 +23,8 @@ class Hobbies extends Component {
               There's nothing more relaxing for me than heading down to the beach or going for a walk.
               <br></br>
               <br></br>
-              <img src='./images/Beach.jpg' width={600} height = {450} alt='Beach' />
+              <img src={process.env.PUBLIC_URL + '/images/Beach.jpg'} width={600} height = {450} alt='Beach' />
+              
             </div>
         </div>
     );
