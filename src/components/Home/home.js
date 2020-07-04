@@ -9,8 +9,8 @@ class Home extends Component {
           <h1> Sonny Young </h1>
         </div>
 
-        <img src={process.env.PUBLIC_URL + "/images/Doge.jpg"} style={{width: 600}} alt='Doge' />
-        <h2> "When things get rough, we become tough" </h2>
+        <img src={process.env.PUBLIC_URL + "/images/Sunset.jpg"} style={{width: 500}} alt='Sunset' />
+        <h2> "Let the light guide your way" </h2>
 
         <p>
           Hello! I'm a UBC Computer Science student who just finished 3rd year.
