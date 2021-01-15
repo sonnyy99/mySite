@@ -10,16 +10,12 @@ class Home extends Component {
         </div>
 
         <img src={process.env.PUBLIC_URL + "/images/Sunset.jpg"} style={{width: 500}} alt='Sunset' />
-        <h2> "Let the light guide your way" </h2>
 
         <p>
-          Hello! I'm a UBC Computer Science student who just finished 3rd year.
+          Hello! I'm a UBC Computer Science student soon to begin my 4th year.
           <br></br>
           <br></br>
-          Currently seeking a co-op position for Fall 2020.
-          <br></br>
-          <br></br>
-          Feel free to contact me at sonnyy99@gmail.com.
+          Feel free to contact me at sonnyy99@gmail.com to learn more about me.
         </p>   
 
         <a href="https://github.com/sonnyy99" target="_blank"> 

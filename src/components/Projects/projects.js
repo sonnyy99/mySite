@@ -9,10 +9,10 @@ class Projects extends Component {
                 <div class ="project">
                     <h3> Food Delivery Web Application </h3>
 
-                    My team and I built a database by modelling the customers, restaurants, drivers, and orders.
+                    My team and I built a database by modelling customers, restaurants, drivers, and orders.
                     <br></br>
                     <br></br>
-                    We then created the SQL queries needed to access the needed data from the database.
+                    We then formulated the SQL queries necessary to retrieve data to display to users.
                     <br></br>
                     <br></br>
                     Finally, we implemented functionality including user accounts, ordering food, and leaving reviews.
@@ -25,19 +25,16 @@ class Projects extends Component {
                 <div class ="project">
                     <h3> Discord Server Bot </h3>
 
-                    Discord is a voice chat application where rooms are open for multiple people to join in at any time.
+                    Discord is a voice chat application where rooms are open for multiple people to join at any time.
                     <br></br>
                     <br></br>
-                    A problem my friends and I had was that we didn't know who entered a voice room without checking.
+                    A problem my friends and I had was that we didn't know who joined a voice room without checking.
                     <br></br>
                     <br></br>
-                    I created this bot to give an auditory greeting so we would know who joined the voice room.
+                    To solve this, I created a bot to give an auditory greeting with the person's name when they joined.
                     <br></br>
                     <br></br>
-                    I also implemented a mute feature for this bot for when the people in the voice room needed to focus.
-                    <br></br>
-                    <br></br>
-
+                    
                     <h4> Technologies: Node.js </h4>
                 </div>
                 
@@ -50,7 +47,7 @@ class Projects extends Component {
                   To save time, I made this project to find the closest water fountain to my current location.
                   <br></br>
                   <br></br>
-                  I started by representing water fountains and their locations using OOP in Java.
+                  First, I represented water fountains and their locations using object-oriented programming in Java.
                   <br></br>
                   <br></br>
                   I then created a GUI using JavaFX allowing users to create, remove, and view the water fountains.

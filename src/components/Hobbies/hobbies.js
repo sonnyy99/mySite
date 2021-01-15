@@ -11,7 +11,7 @@ class Hobbies extends Component {
               I love sports because they are not only good exercise, but also a group bonding experience.
               <br></br>
               <br></br>
-              These days you can usually find me playing Ultimate Frisbee or Basketball.
+              My favorite sports to play are Ultimate Frisbee and Basketball.
               <br></br>
               <br></br>
               <img src={process.env.PUBLIC_URL + '/images/UltiChampions.jpg'} style={{width: 600}} alt='Team Photo' />
