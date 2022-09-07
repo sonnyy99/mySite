@@ -6,3 +6,7 @@ div.project {
     text-align: center;
     margin-bottom: 35px;
 }
+p.project {
+    text-align: left;
+    margin-left: 30px;
+}

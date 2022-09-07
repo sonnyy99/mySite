@@ -10,24 +10,25 @@ class Home extends Component {
         </div>
 
         <img src={process.env.PUBLIC_URL + "/images/Sunset.jpg"} style={{width: 500}} alt='Sunset' />
+        <div class ="mainText">
+          <p>
+            Hello! I'm a 4th year Computer Science student studying at the University of British Columbia.
+            <br></br>
+            <br></br> 
+            I am passionate about how technology can be used to improve people's lives.
+            <br></br>
+            <br></br>
+            Feel free to reach out and learn more about me!
+          </p>   
+        
+          <a href="mailto:sonnyy99@gmail.com">
+            <img border="0" alt="Email" src={process.env.PUBLIC_URL + "/images/EmailIcon.png"} width="50" height="50"/>
+          </a>  
 
-        <p>
-          Hello! I'm a 4th year Computer Science student studying at the University of British Columbia.
-          <br></br>
-          <br></br> I am passionate about how technology can be used to improve people's lives.
-          <br></br>
-          <br></br>
-          Feel free to reach out and learn more about me!
-        </p>   
-
-        <a href="mailto:sonnyy99@gmail.com">
-          <img border="0" alt="Email" src={process.env.PUBLIC_URL + "/images/EmailIcon.png"} width="50" height="50"/>
-        </a> 
-
-        <a href="https://www.linkedin.com/in/sonnyyubc/" target="_blank"> 
-          <img border="0" alt="LinkedIn" src={process.env.PUBLIC_URL + "/images/LinkedInLogo.png"} width="50" height="50"/>
-        </a>
-
+          <a href="https://www.linkedin.com/in/sonnyyoung/" target="_blank"> 
+            <img border="0" alt="LinkedIn" src={process.env.PUBLIC_URL + "/images/LinkedInLogo.png"} width="50" height="50"/>
+          </a>
+        </div>
         <br></br>
         <br></br>
       </div>

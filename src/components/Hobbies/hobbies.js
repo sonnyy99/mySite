@@ -8,7 +8,7 @@ class Hobbies extends Component {
           <h1>Hobbies</h1>
             <div class ="hobbie">
               <h3> Team Sports </h3>
-              I love sports because they are not only good exercise, but also a group bonding experience.
+              I love sports because they are good exercise and can be a group bonding experience.
               <br></br>
               <br></br>
               My favorite sports to play are Ultimate Frisbee and Basketball.
@@ -20,7 +20,10 @@ class Hobbies extends Component {
 
             <div class ="hobbie">
               <h3> Enjoying Nature </h3>
-              There's nothing more relaxing for me than heading down to the beach or going for a walk.
+              When I want to relax, I like to head down to the beach or go for a walk.
+              <br></br>
+              <br></br>
+              Here is one of my favourite spots!
               <br></br>
               <br></br>
               <img src={process.env.PUBLIC_URL + '/images/Beach.jpg'} width={600} height = {450} alt='Beach' />

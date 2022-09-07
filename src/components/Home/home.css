@@ -7,3 +7,13 @@ div.nameHeader {
     margin-top: 15px;
     background-color: #F0EAD6;
 }
+
+div.mainText {
+    width: 750px;
+    border: 5px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
