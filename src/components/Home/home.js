@@ -12,16 +12,18 @@ class Home extends Component {
         <img src={process.env.PUBLIC_URL + "/images/Sunset.jpg"} style={{width: 500}} alt='Sunset' />
 
         <p>
-          Hello! I'm a UBC Computer Science student soon to begin my 4th year.
+          Hello! I'm a 4th year Computer Science student studying at the University of British Columbia.
+          <br></br>
+          <br></br> I am passionate about how technology can be used to improve people's lives.
           <br></br>
           <br></br>
-          Feel free to contact me at sonnyy99@gmail.com to learn more about me.
+          Feel free to reach out and learn more about me!
         </p>   
 
-        <a href="https://github.com/sonnyy99" target="_blank"> 
-          <img border="0" alt="GitHub" src={process.env.PUBLIC_URL + "/images/GitHubLogo.png"}  width="50" height="50"/>
-        </a>
-            
+        <a href="mailto:sonnyy99@gmail.com">
+          <img border="0" alt="Email" src={process.env.PUBLIC_URL + "/images/EmailIcon.png"} width="50" height="50"/>
+        </a> 
+
         <a href="https://www.linkedin.com/in/sonnyyubc/" target="_blank"> 
           <img border="0" alt="LinkedIn" src={process.env.PUBLIC_URL + "/images/LinkedInLogo.png"} width="50" height="50"/>
         </a>
